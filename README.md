@@ -15,4 +15,7 @@ Now, you will need to type in the following commands to install the libraries:
 Open a Terminal and type the following commands:
 
 pip install pynput
+
 pip install keyboard
+
+This should install all neccessary libraries. Open a terminal in the folder where you downloaded the script. Type in the terminal: python auto-scroll.py
